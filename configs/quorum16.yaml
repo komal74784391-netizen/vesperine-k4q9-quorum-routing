@@ -1,0 +1,4 @@
+num_experts: 16
+top_k: 2
+quorum: 3
+temperature: 1.0
